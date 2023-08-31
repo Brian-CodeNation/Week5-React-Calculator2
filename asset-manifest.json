@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Week5-React-Calculator2/static/css/main.20ca5008.css",
+    "main.js": "/Week5-React-Calculator2/static/js/main.41c3af4c.js",
+    "index.html": "/Week5-React-Calculator2/index.html",
+    "main.20ca5008.css.map": "/Week5-React-Calculator2/static/css/main.20ca5008.css.map",
+    "main.41c3af4c.js.map": "/Week5-React-Calculator2/static/js/main.41c3af4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20ca5008.css",
+    "static/js/main.41c3af4c.js"
+  ]
+}
